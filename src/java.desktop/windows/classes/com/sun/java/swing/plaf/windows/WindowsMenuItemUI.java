@@ -31,9 +31,11 @@ import javax.swing.plaf.*;
 import javax.swing.plaf.basic.*;
 
 import sun.swing.SwingUtilities2;
+import sun.swing.MenuItemLayoutHelper;
 
 import com.sun.java.swing.plaf.windows.TMSchema.*;
 import com.sun.java.swing.plaf.windows.XPStyle.*;
+import com.sun.java.swing.SwingUtilities3;
 
 /**
  * Windows rendition of the component.
